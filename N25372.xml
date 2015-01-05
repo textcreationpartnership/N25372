@@ -116,8 +116,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:033647_0000_0FF7B8DC742D2D80"/>
-            <pb facs="tcp:033647_0001_0FF7800683C3B308" rendition="simple:additions"/>
+            <pb facs="unknown:033647_0000_0FF7B8DC742D2D80"/>
+            <pb facs="unknown:033647_0001_0FF7800683C3B308"
+                rendition="simple:additions"/>
             <p>A CAUTION; OR, <hi>REFLECTIONS</hi> ON THE PRESENT CONTEST <hi>BETWEEN FRANCE</hi> AND <hi>GREAT-BRITAIN.</hi>
             </p>
             <p>Printed by BENJ. FRANKLIN BACHE, N<hi rend="sup">o</hi>. 112. Market-ſtreet. M,DCCXCVIII.</p>
@@ -125,7 +126,7 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:033647_0002_0FF7B81277017B60"/>
+            <pb facs="unknown:033647_0002_0FF7B81277017B60"/>
             <head>A CAUTION, <hi>&amp;c.</hi>
             </head>
             <p>THESE States are at preſent expoſed to very threatening dangers. Whether <hi>France</hi> has been juſtly provoked by the con<g ref="char:EOLhyphen"/>duct of the late Preſident and his ſucceſſor, or by the temper that placed the laſt in his ſtation, will not now be enquired. The <hi>fact</hi> is, that <hi>France</hi> is provoked. What the conſequences of her re<g ref="char:EOLhyphen"/>ſentment may be, demands our moſt ſerious conſideration.</p>
@@ -147,7 +148,7 @@
                   </gap>.</hi>
             </p>
             <p>
-               <pb n="4" facs="tcp:033647_0003_0FF7B816AFE74670"/>
+               <pb n="4" facs="unknown:033647_0003_0FF7B816AFE74670"/>
 The Executive Directory have proclaimed their reſolution to "CONQUER" <hi>Britain,</hi> and are preparing the means for carrying that reſolution into effect.</p>
             <p>To the accompliſhment of this deſign, the Republic is ſtimu<g ref="char:EOLhyphen"/>lated by three of the moſt exciting motives, that ever agitated the mind of a people. Firſt—to humble a rival, that for many centuries has been formidable and hurtful; and in the revolu<g ref="char:EOLhyphen"/>tion, has been the principal inſtigator and ſupporter of the co<g ref="char:EOLhyphen"/>alition, that aimed deſtruction at her territorial integrity and national liberty; and therefore, in her account is juſtly charge<g ref="char:EOLhyphen"/>able with all the <hi>French</hi> blood that has been ſhed, and all the <hi>French</hi> treaſure that has been expended.</p>
             <p>Secondly—to obtain compenſation for the injuries that have been ſuſtained. The vaſt debts incurred by the Republic, and due to their meritorious armies and other deſerving creditiors, muſt be paid, and EITHER BY FRANC OR BRITAIN.</p>
@@ -216,7 +217,7 @@ The Executive Directory have proclaimed their reſolution to "CONQUER" <hi>Brita
                   </gap>
                </hi> navy.</p>
             <p>
-               <pb n="5" facs="tcp:033647_0004_0FF7B81D09491340"/>
+               <pb n="5" facs="unknown:033647_0004_0FF7B81D09491340"/>
 Between <hi>Cephalenis</hi> and the main is <hi>Ithaca,</hi> the beloved ſeat of the renowned <hi>Ulyſſes,</hi> and the delightful theme of the admi<g ref="char:EOLhyphen"/>rable <hi>Homer.</hi>
             </p>
             <p>
@@ -349,7 +350,7 @@ Between <hi>Cephalenis</hi> and the main is <hi>Ithaca,</hi> the beloved ſeat o
                </gap> a gr<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap>r
-<pb n="6" facs="tcp:033647_0005_0FF7B821001BDCD0"/>height of true glory, than any people upon earth ever attained.</p>
+<pb n="6" facs="unknown:033647_0005_0FF7B821001BDCD0"/>height of true glory, than any people upon earth ever attained.</p>
             <p>Inſtead of imitating the <hi>Roman</hi> policy, of ſettling colonies among conquered nations, to enforce their ſubjection, <hi>France</hi> more generouſly and more wiſely, waves her enfranchiſing hand over their heads, and with the voice of power and humanity bids them riſe up FREE STATES. THE FRIEND OF MANKIND, ſhe be<g ref="char:EOLhyphen"/>ſtows Liberty upon them; and in return aſks only their amity. She is their <hi>political parent;</hi> and if ever they fail in rendering to her the filial duty they owe her, well will they deſerve to ſink again into their former abject condition.</p>
             <p>How much farther the triumphs of benevolence may extend, it is not difficult to foreſee. A ſhort well-improved paſſage from the head of the <hi>Mediterranean</hi> to the head of the <hi>Red Sea,</hi> may open a facility of communication with the <hi>Eaſt Indies,</hi> by a rout about one third as long as that by the Cape of <hi>Good Hope.</hi>
             </p>
@@ -375,7 +376,7 @@ Between <hi>Cephalenis</hi> and the main is <hi>Ithaca,</hi> the beloved ſeat o
                      <desc>〈◊〉</desc>
                   </gap>
                </hi>
-               <pb n="7" facs="tcp:033647_0006_0FF7B82547EFFF68"/>direct our conduct by ſuch a perſuaſion, we may fall into a fa<g ref="char:EOLhyphen"/>tal deception. We cannot be too CAUTIOUS in our calculations upon that ſubject.</p>
+               <pb n="7" facs="unknown:033647_0006_0FF7B82547EFFF68"/>direct our conduct by ſuch a perſuaſion, we may fall into a fa<g ref="char:EOLhyphen"/>tal deception. We cannot be too CAUTIOUS in our calculations upon that ſubject.</p>
             <p>Some perſons indeed among us, ſpeak of the naval power of <hi>Britain</hi> as invincible, and in a manner as everlaſting. But theſe ebulitions ſeem to be ſuggeſted by paſſion, peculiar intereſts, and particular predilections, that have latterly introduced a great deal of fanciful ſpeculations in polities, and concerning meaſures that involve our beſt welfare.</p>
             <p>Theſe ſpeculations, like ſome of other kinds, after amuſing the adventurers with golden proſpects for months or years, bring upon them heavy reſponſibilities, before the maturation of their alchymiſtical materials can be completed. We ſee enough al<g ref="char:EOLhyphen"/>ready, to be convinced, that the whole projection is vaniſhing into air—"into thin air".</p>
             <p>In contemplating HOW <hi>France</hi> can invade <hi>Britain,</hi> it is appre<g ref="char:EOLhyphen"/>hended, that the true queſtion is not—Whether the former, with the aſſiſtance of <hi>Spain</hi> and <hi>Holland,</hi> will be able ſend out ſuch Fleets, as by ſucceſſive engagements will acquire the dominion of the ocean—but, whether in exiſting circumſtances, <hi>France</hi> will be able to ſend into <hi>Britain,</hi> acroſs the narrow ſea that ſe<g ref="char:EOLhyphen"/>parates them, ſuch an army as will abſolutely preſcribe the terms of peace.</p>
@@ -394,7 +395,7 @@ Between <hi>Cephalenis</hi> and the main is <hi>Ithaca,</hi> the beloved ſeat o
                         </gap>,</hi> ſhe adhered to it, with ſuch inſuperable patience, that after loſing <hi>ſeven bazdrea</hi> men of war, the at laſt prevailed.</p>
                </note> In the concluſion, after many battles by ſea, and a war of more than twenty years continuance, the <hi>Romans</hi> were conquerors at ſea, as well as at land. The reſources of the two parties were much nearer to an equality, than thoſe of <hi>France</hi> and <hi>Britain</hi> now are.</p>
             <p>The predeceſſor of <hi>Alfred</hi> the great, "leſt his ſubjects and ſucceſſors in the moſt dangerous and diſtreſsful circumſtances". The afflicted nation ſeemed likely to periſh: and that truly great Prince was obliged for ſome time to conceal himſelf from his enemies in deep retirement. At length he left his retreat, and
-<pb n="8" facs="tcp:033647_0007_0FF7B826D75FB420"/>had many conflicts with the <hi>Danes,</hi> who covered as it were the neighbouring ſeas with their fleets, and were continually and cruelly harraſſing <hi>England</hi> with invaſions. The King was very ſenſible of the diſadvantages his ſubjects laboured under, for want of a ſufficient fleet to meet their enemies at ſea, and pre<g ref="char:EOLhyphen"/>vent their landing, and was very deſirous of ſupplying that de<g ref="char:EOLhyphen"/>fect.</p>
+<pb n="8" facs="unknown:033647_0007_0FF7B826D75FB420"/>had many conflicts with the <hi>Danes,</hi> who covered as it were the neighbouring ſeas with their fleets, and were continually and cruelly harraſſing <hi>England</hi> with invaſions. The King was very ſenſible of the diſadvantages his ſubjects laboured under, for want of a ſufficient fleet to meet their enemies at ſea, and pre<g ref="char:EOLhyphen"/>vent their landing, and was very deſirous of ſupplying that de<g ref="char:EOLhyphen"/>fect.</p>
             <p>"But (ſays a judicious hiſtorian) there is nothing in the world more difficult, than to reſtore a naval power when it is fallen into decay, in a country where there is little trade, to furniſh ſhips, and to be a nurſery for ſeamen; and in the face of ene<g ref="char:EOLhyphen"/>mies who are maſters of the ſea. To an <hi>ordinary genius,</hi> this muſt appear impracticable. What admiration then is juſtly due to that extraordinary Prince, who not only attempted, but <hi>ac<g ref="char:EOLhyphen"/>compliſhed</hi> that difficult undertaking; who raiſed a <hi>mighty</hi> naval power <hi>almoſt out of nothing,</hi> revived foreign trade, and <hi>wreſted</hi> the dominion of the ſeas out of the hands of the inſulting <hi>Danes?</hi> This was the great <hi>Alfred,</hi> who preſents himſelf in ſo many ami<g ref="char:EOLhyphen"/>able points of view, to one who ſtudies the <hi>Anglo-Saxon</hi> hiſtory, that it is impoſſible not to contract the fondeſt and moſt enthu<g ref="char:EOLhyphen"/>ſiaſtic admiration of his character."<note n="*" place="bottom">Henry's Hiſt. of Pritain, II. 403-40<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.</note>
@@ -405,7 +406,7 @@ Between <hi>Cephalenis</hi> and the main is <hi>Ithaca,</hi> the beloved ſeat o
             <p>The firſt reflection that offers itſelf to conſideration on this head, is the prodigious diſproportion of <hi>population</hi> and <hi>native ſtrength</hi> between <hi>France</hi> and <hi>Britain,</hi> not to inſiſt on the momen<g ref="char:EOLhyphen"/>tous addition to that diſproportion by the <hi>allies</hi> of <hi>France,</hi> two of the greateſt maritime powers in <hi>Europe,</hi> excited as they muſt be to the moſt ardent co-operation with her, by the vaſt pledges they have dependant on the iſſue, and by the proofs ſhe has given in her late negociations, that ſhe contends for <hi>their</hi> inter<g ref="char:EOLhyphen"/>acts as pertinaciouſly as for her own—while <hi>Britain</hi> is left alone.</p>
             <p>The next reflection that preſents itſelf, is the relative ſituation of the two countries.</p>
             <p>
-               <pb n="9" facs="tcp:033647_0008_0FF7B82BBA33B050"/>
+               <pb n="9" facs="unknown:033647_0008_0FF7B82BBA33B050"/>
 From <hi>Breſt</hi> directly oppoſite to <hi>Cornwall</hi> and <hi>Ireland,</hi> to the <hi>Texel</hi> oppoſite to <hi>Norfolk</hi> and <hi>Suffolk, France</hi> has theſe interme<g ref="char:EOLhyphen"/>diate ports, well adapted for fitting out large armaments—<hi>Cher<g ref="char:EOLhyphen"/>burgh, Havre, Saint Vallori,</hi> with the river <hi>Boulogne,</hi> and <hi>Oſtend.</hi> Which of theſe places, and how many of them, or what others, will afford the beſt points for making their "dreadful notes of preparation", the ſkill and ingenuity of the <hi>French</hi> will deter<g ref="char:EOLhyphen"/>mine upon principles as indiſputable as geometrical axioms or mathematical demonſtrations. Certain it is, that as to all of them, the winds that may be favourable to the enterprizes of <hi>France,</hi> will be adverſe to her enemy. The <hi>Britiſh</hi> hiſtory abounds with inſtances of this kind; and not winds only may conſpire to render plans of invaſion ſucceſsful.</p>
             <p>When <hi>Allectus,</hi> the ſucceſſor of the famous <hi>Carauſcius</hi> reigned in <hi>Britain,</hi> he was maſter of the ſeas. The <hi>Roman</hi> Emperor <hi>Conſtantius,</hi> reſolved to recover <hi>Britain,</hi> and accordingly col<g ref="char:EOLhyphen"/>lected a very large fleet at <hi>Boulogne.</hi> Now in paſſing, to avoid an enemy too ſtrong for them, was the only difficulty. A mo<g ref="char:EOLhyphen"/>dern <hi>Engliſh</hi> hiſtorian ſays—"The ROMANS, under the cover of a thick fog, eſcaped the fleet of <hi>Allectus;</hi> and <hi>convinced</hi> the BRITONS, that <hi>a ſuperiority of naval ſtrength</hi> will not <hi>always</hi> pro<g ref="char:EOLhyphen"/>tect their country from a foreign invaſion."<note n="*" place="bottom">Gibb. Hiſt II. 106.</note>
             </p>
@@ -414,7 +415,7 @@ From <hi>Breſt</hi> directly oppoſite to <hi>Cornwall</hi> and <hi>Ireland,</h
             <p>The fleet of <hi>James</hi> the ſecond, conſiſting of ſixty one men of war, of which thirty eight were of the line of battle, lay at the <hi>Gunfleet</hi> near the <hi>Thames,</hi> to intercept the <hi>Dutch:</hi> but, the <hi>Dutch</hi> paſſed the <hi>Gunfleet</hi> in a very hazy day, while the winds were extremely unfavourable to the <hi>Engliſh</hi> fleet. The <hi>Dutch</hi> very deliberately coaſted along all the ſouthern parts of <hi>England,</hi> from its eaſtern point the <hi>North Foreland</hi> at the mouth of the <hi>Channel,</hi> to within a few miles of its weſternmoſt County. Yet, after all the protraction of this voyage, the whole army of horſe and foot was on ſhore, at <hi>Torbay</hi> in <hi>Devonſhire,</hi> before the end of the <hi>fourth</hi> day from its beginning. "The wind prevented Lord <hi>Dartmouth,</hi>" entirely devoted to <hi>James's</hi> cauſe, "who was <hi>come in ſight of the Dutch fleet,</hi> from attacking it, and obliged him to go into <hi>Portſmouth.</hi>"<note n="†" place="bottom">Rapin's Hiſt. of England, XII. 140-145.</note>
             </p>
             <p>
-               <pb n="10" facs="tcp:033647_0009_0FF7B833BA8235E0"/>
+               <pb n="10" facs="unknown:033647_0009_0FF7B833BA8235E0"/>
 In a few days afterwards, the BRITISH REVOLUTION was completed.</p>
             <p>When <hi>William</hi> ſurnamed the <hi>Conqueror,</hi> then only Duke of <hi>Normandy,</hi> deſigned the invaſion of <hi>England</hi> and the dethrone<g ref="char:EOLhyphen"/>ment of King <hi>Ha<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
@@ -448,7 +449,7 @@ In a few days afterwards, the BRITISH REVOLUTION was completed.</p>
                   <desc>•</desc>
                </gap>cks, have tranſcended all former examples of human archievement.</p>
             <p>The prize at which they now aim, is in their eyes too ineſti<g ref="char:EOLhyphen"/>mable to be abandoned. The greatneſs of obſtacles and ſuffer<g ref="char:EOLhyphen"/>ings
-<pb n="11" facs="tcp:033647_0010_0FF7B839D8A9A8E0"/>will enhance its value. It is in their opinion, conſecrated by the blood of their fellow-citizens that has been poured out in the cauſe. They will not think <hi>any thing</hi> that <hi>has been</hi> gained, is commenſurate to their rights or intereſts. To leave <hi>Britain</hi> reigning on any element, will in their eſtimation be ingratitude to their brethren who are no more, and treaſon againſt their poſterity. The old <hi>Roman</hi> denunciation, "DELINDA EST CAR<g ref="char:EOLhyphen"/>THAGO," rings from the <hi>Rhine</hi> to the <hi>Pyrennees,</hi> and from the <hi>Mediterranean</hi> to the <hi>Ocean.</hi>
+<pb n="11" facs="unknown:033647_0010_0FF7B839D8A9A8E0"/>will enhance its value. It is in their opinion, conſecrated by the blood of their fellow-citizens that has been poured out in the cauſe. They will not think <hi>any thing</hi> that <hi>has been</hi> gained, is commenſurate to their rights or intereſts. To leave <hi>Britain</hi> reigning on any element, will in their eſtimation be ingratitude to their brethren who are no more, and treaſon againſt their poſterity. The old <hi>Roman</hi> denunciation, "DELINDA EST CAR<g ref="char:EOLhyphen"/>THAGO," rings from the <hi>Rhine</hi> to the <hi>Pyrennees,</hi> and from the <hi>Mediterranean</hi> to the <hi>Ocean.</hi>
             </p>
             <p>Surely, it is within the bounds of probability, that wooden fortreſſes may be conſtructed, mounting ſuch artillery as no firſt-rate can oppoſe with ſucceſs. Unincumbered with maſts ſails and other rigging, and therefore drawing leſs water, and capable of carrying more artillery, a ſufficient celerity may be given to their motion, if towed by gallies driven forward with the united force of ſails and oars, eſpecially if it be conſidered, that for ſe<g ref="char:EOLhyphen"/>veral months in every year, the <hi>Channel</hi> is very ſmooth. It is likely, that <hi>Alfred</hi>'s ſhips of <hi>"a new conſtruction"</hi> before men<g ref="char:EOLhyphen"/>tioned, were as extraordinary in his age, as ſuch fortreſſes would be now.</p>
             <p>A knowledge of all nautical circumſtances, will enable the planners of invaſion, to calculate exactly the time that will be re<g ref="char:EOLhyphen"/>quired for the arrival of the armament on the oppoſite ſhore. Proper perſons raiſed up in baloons, and furniſhed with the beſt glaſſes, may diſcern every veſſel within ſight to a vaſt diſtance. The poſſibility and quantity of any reſiſtance by them, can then be preciſely aſcertained. If intelligence from places more re<g ref="char:EOLhyphen"/>mote is wanted, telegraphs can dart it, with any requiſite ve<g ref="char:EOLhyphen"/>locity.</p>
@@ -461,7 +462,7 @@ In a few days afterwards, the BRITISH REVOLUTION was completed.</p>
                </gap> of <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>, that the very enemies againſt
-<pb n="12" facs="tcp:033647_0011_0FF7B83D9B2A25B8"/>whom they were to be employed for their deſtruction, could not forbear running to gaze with admiration upon his gallies of five and ſix ranges of oars, as they paſſed near their coaſts; and the inhabitants of thoſe cities that were to be beſieged and ſtormed by thoſe terrible engines, thronged to the walls which they were about to batter, to behold thoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb n="12" facs="unknown:033647_0011_0FF7B83D9B2A25B8"/>whom they were to be employed for their deſtruction, could not forbear running to gaze with admiration upon his gallies of five and ſix ranges of oars, as they paſſed near their coaſts; and the inhabitants of thoſe cities that were to be beſieged and ſtormed by thoſe terrible engines, thronged to the walls which they were about to batter, to behold thoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> machines"—"Even <hi>Ly<g ref="char:EOLhyphen"/>ſimachus,</hi> of all the kings of his time the greateſt enemy of <hi>De<g ref="char:EOLhyphen"/>metrius,</hi> coming to raiſe the ſiege of <hi>S<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -476,7 +477,7 @@ In a few days afterwards, the BRITISH REVOLUTION was completed.</p>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:033647_0012_0FF7B84236114730"/>
+            <pb facs="unknown:033647_0012_0FF7B84236114730"/>
             <head>
                <hi>ODE,</hi> ON THE FRENCH REVOLUTION.</head>
             <lg n="1">
@@ -515,7 +516,7 @@ In a few days afterwards, the BRITISH REVOLUTION was completed.</p>
                </lg>
             </lg>
             <lg n="3">
-               <pb n="14" facs="tcp:033647_0013_0FF7B84736184C10"/>
+               <pb n="14" facs="unknown:033647_0013_0FF7B84736184C10"/>
                <head>III.</head>
                <l>Go on! Go on! heroic bands,</l>
                <l>And publiſh to the liſt'ning lands</l>
